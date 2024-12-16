@@ -1,4 +1,5 @@
-👋 Hi, I’m @JayantiRastogi
+👋 Hi, I’m Jayanti.
+
 I am a self-motivated individual currently pursuing a Data Science certification from Scaler Academy. With a strong academic foundation, including an M.Tech in Digital Communications, I am now channeling my full focus toward building a career in Data Science, Data Analysis, and Machine Learning.
 
 I am highly adaptable, eager to learn, and unburdened by preconceptions (being a late starter), which allows me to approach challenges with a fresh perspective and open mind.
